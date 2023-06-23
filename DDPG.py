@@ -9,6 +9,15 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 print('hello world')
 print('hello world')
+print('hello world')
+print('hello world')
+print('hello world')
+print('hello world')
+print('hello world')
+
+print('hello world')
+print('hello world')
+
 
 # Implementation of Deep Deterministic Policy Gradients (DDPG)
 # Paper: https://arxiv.org/abs/1509.02971
