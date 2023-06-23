@@ -7,6 +7,9 @@ import torch.nn.functional as F
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
+print('hello world')
+print('hello world')
+
 # Implementation of Deep Deterministic Policy Gradients (DDPG)
 # Paper: https://arxiv.org/abs/1509.02971
 # [Not the implementation used in the TD3 paper]
